@@ -5,7 +5,7 @@
 ## Таблица проектов
 
 | Проект | Ссылка | Описание |
-|--------|----------|
+|--------|--------|-------------|
 | Modern Style | [UserForms-Class-Modern-Style](https://github.com/vbatools/UserForms-Class-Modern-Style/) | Класс для стилизации элементов управления формы, позволяющий создавать современный и привлекательный пользовательский интерфейс ![demo](https://github.com/vbatools/UserForms-Class-Modern-Style/blob/main/User_Forms.gif) |
 | Multi-State CheckBox | [UserForms-Class-Multi-State-CheckBox-VBA](https://github.com/vbatools/UserForms-Class-Multi-State-CheckBox-VBA/) | Класс для создания многосостоятельных флажков с возможностью переключения между несколькими состояниями ![demo](https://github.com/vbatools/UserForms-Class-Multi-State-CheckBox-VBA/blob/main/User_Forms.gif) |
 | Slider | [UserForms-Class-Slider-VBA](https://github.com/vbatools/UserForms-Class-Slider-VBA/) | Класс для создания ползунков с возможностью настройки диапазона и шага изменения значений ![demo](https://github.com/vbatools/UserForms-Class-Slider-VBA/blob/main/User_Forms.gif) |
