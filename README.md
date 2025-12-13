@@ -2,7 +2,7 @@
 
 This repository contains various VBA UserForms projects, each providing unique functionality for enhancing the interface of Excel applications.
 
-**:🇺🇸: English** | [:ru: Русский](README_RUS.md)
+**English** | [Русский](README_RUS.md)
 
 ## Project Table
 
