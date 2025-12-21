@@ -9,7 +9,7 @@ This repository contains various VBA UserForms projects, each providing unique f
 | № | Status | Project | Description |
 |---|------|------|-------------|
 1 | 🔒 | [Acardion](https://github.com/vbatools/UserForms-Class-Accordion-VBA/) | Class for creating accordions (collapsible panels) for organizing content in a compact way ![demo](https://github.com/vbatools/UserForms-Class-Accordion-VBA/blob/main/User_Forms.gif) |
-2 | 🔒 | [Anchors](https://github.com/vbatools/UserForms-Class-Anchors-VBA/) | Class for dynamic anchoring of controls in Excel UserForms, allowing controls to adapt to form size changes ![demo](https://github.com/vbatools/UserForms-Class-Anchors-VBA/blob/main/User_Forms.gif) |
+2 | ✅ | [Anchors](https://github.com/vbatools/UserForms-Class-Anchors-VBA/) | Class for dynamic anchoring of controls in Excel UserForms, allowing controls to adapt to form size changes ![demo](https://github.com/vbatools/UserForms-Class-Anchors-VBA/blob/main/User_Forms.gif) |
 3 | ✅ | [Button](https://github.com/vbatools/UserForms-Class-Button-VBA/) | Class for creating enhanced buttons for UserForms with improved functionality and appearance ![demo](https://github.com/vbatools/UserForms-Class-Button-VBA/blob/main/User_Forms.gif) |
 4 | ✅ | [Calendar](https://github.com/vbatools/UserForms-Class-Calendar-VBA/) | Class for creating calendars with date and time selection capabilities ![demo](https://github.com/vbatools/UserForms-Class-Calendar-VBA/blob/main/User_Forms.gif) |
 5 | 🔒 | [ComboBox](https://github.com/vbatools/UserForms-Class-ComboBox-VBA/) | Class for creating enhanced combobox controls with improved functionality and appearance ![demo](https://github.com/vbatools/UserForms-Class-ComboBox-VBA/blob/main/User_Forms.gif) |
