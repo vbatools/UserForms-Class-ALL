@@ -8,7 +8,7 @@
 
 | № | Статус | Проект | Описание |
 |---|------|------|-------------|
-1 | 🔒 | [Accordion](https://github.com/vbatools/UserForms-Class-Accordion-VBA/blob/main/README_RUS.md) | Класс для создания аккордеонов (сворачиваемых панелей) для организации контента в компактном виде ![demo](https://github.com/vbatools/UserForms-Class-Accordion-VBA/blob/main/User_Forms.gif) |
+1 | ✅ | [Accordion](https://github.com/vbatools/UserForms-Class-Accordion-VBA/blob/main/README_RUS.md) | Класс для создания аккордеонов (сворачиваемых панелей) для организации контента в компактном виде ![demo](https://github.com/vbatools/UserForms-Class-Accordion-VBA/blob/main/User_Forms.gif) |
 2 | ✅ | [Anchors](https://github.com/vbatools/UserForms-Class-Anchors-VBA/blob/main/README_RUS.md) | Класс для динамического прикрепления элементов управления в Excel UserForms, позволяющий элементам адаптироваться к изменению размеров формы ![demo](https://github.com/vbatools/UserForms-Class-Anchors-VBA/blob/main/User_Forms.gif) |
 3 | ✅ | [Button](https://github.com/vbatools/UserForms-Class-Button-VBA/blob/main/README_RUS.md) | Класс для создания улучшенных кнопок для UserForms с расширенной функциональностью и улучшенным внешним видом ![demo](https://github.com/vbatools/UserForms-Class-Button-VBA/blob/main/User_Forms.gif) |
 4 | ✅ | [Calendar](https://github.com/vbatools/UserForms-Class-Calendar-VBA/blob/main/README_RUS.md) | Класс для создания календарей с возможностью выбора даты и времени ![demo](https://github.com/vbatools/UserForms-Class-Calendar-VBA/blob/main/User_Forms.gif) |
